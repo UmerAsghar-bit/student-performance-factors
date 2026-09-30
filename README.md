@@ -2,6 +2,7 @@
 
 CS 334 final project (Group 17). We analyze which academic, behavioral, socio-economic and environmental factors affect secondary school students' exam scores, and build models to predict those scores.
 
+- **View the notebook online:** [umerasghar-bit.github.io/student-performance-factors](https://umerasghar-bit.github.io/student-performance-factors/CS334_Project_Jupyter_Notebook.html)
 - **Blog post:** [Analyzing Factors Influencing Student Performance: A Data-Driven Approach](https://medium.com/@umerasghar6754/analyzing-factors-influencing-student-performance-a-data-driven-approach-360fc2495fc4)
 - **Notebook:** [CS334_Project_Jupyter_Notebook.ipynb](CS334_Project_Jupyter_Notebook.ipynb) (a static [HTML export](CS334_Project_Jupyter_Notebook.html) is also included)
 
